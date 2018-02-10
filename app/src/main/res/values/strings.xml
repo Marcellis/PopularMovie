@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="image_movie">image movie</string>
+    <string name="vote_average">Vote Average</string>
+    <string name="release_date">Release date</string>
+    <string name="play_button">play button</string>
+    <string name="unpopular">Not Favorite</string>
+    <string name="popular">Favorite</string>
+</resources>

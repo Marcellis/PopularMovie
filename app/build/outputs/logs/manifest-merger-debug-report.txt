@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/marmm/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/6fe2870f66323e50f0843296310476dd/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:design:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/1feb0b27937eecea0e55be433b78cd9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0acb17e1946415af502514ecd9059197/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/998d241eca99c159d4b4f33541a4b111/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/c394603f42ddaac750c1c7656ac647e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/953d5f121c8e15c0f922202953453751/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/922aaee0d779ddeaa41cd602378b405a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9ed5942d5e28e9911096b8b7aacacb68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/38477b195a6915ebdb33fa78ad255f94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/41ac5e730afd703ef5097a61a208baf8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/0d241427155dfd7a619718500bacac7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/b5124ef1a0fa8057ba8f4ef40fd3b5f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/ae3c5bcbed02153faedcd5e098ed9fbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a2e87622417715cb083fb231def5d8eb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/marmm/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/bdb6dbb1687e8e8b20c1589402b6d06d/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:8:5-36:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/998d241eca99c159d4b4f33541a4b111/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/998d241eca99c159d4b4f33541a4b111/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.marmm.popularmovie.activity.MainActivity
+ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:15:9-22:20
+	android:launchMode
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:16:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.example.marmm.popularmovie.activity.DetailMovieActivity
+ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:23:9-27:20
+	android:name
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:23:19-63
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:24:13-26:58
+	android:value
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:26:17-55
+	android:name
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:25:17-63
+provider#com.example.marmm.popularmovie.database.MoviesProvider
+ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:29:9-33:52
+	android:authorities
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:31:13-89
+	android:multiprocess
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:33:13-40
+	android:exported
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml:30:13-52
+uses-sdk
+INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/marmm/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/6fe2870f66323e50f0843296310476dd/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/marmm/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/6fe2870f66323e50f0843296310476dd/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:design:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/1feb0b27937eecea0e55be433b78cd9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/1feb0b27937eecea0e55be433b78cd9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0acb17e1946415af502514ecd9059197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0acb17e1946415af502514ecd9059197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/998d241eca99c159d4b4f33541a4b111/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/998d241eca99c159d4b4f33541a4b111/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/c394603f42ddaac750c1c7656ac647e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/c394603f42ddaac750c1c7656ac647e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/953d5f121c8e15c0f922202953453751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/953d5f121c8e15c0f922202953453751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/922aaee0d779ddeaa41cd602378b405a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/922aaee0d779ddeaa41cd602378b405a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9ed5942d5e28e9911096b8b7aacacb68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9ed5942d5e28e9911096b8b7aacacb68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/38477b195a6915ebdb33fa78ad255f94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/38477b195a6915ebdb33fa78ad255f94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/41ac5e730afd703ef5097a61a208baf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/41ac5e730afd703ef5097a61a208baf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/0d241427155dfd7a619718500bacac7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/0d241427155dfd7a619718500bacac7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/b5124ef1a0fa8057ba8f4ef40fd3b5f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/b5124ef1a0fa8057ba8f4ef40fd3b5f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/ae3c5bcbed02153faedcd5e098ed9fbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/ae3c5bcbed02153faedcd5e098ed9fbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a2e87622417715cb083fb231def5d8eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/marmm/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a2e87622417715cb083fb231def5d8eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/marmm/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/bdb6dbb1687e8e8b20c1589402b6d06d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/marmm/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/bdb6dbb1687e8e8b20c1589402b6d06d/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+		ADDED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marmm/AndroidStudioProjects/PopularMovie/app/src/main/AndroidManifest.xml
